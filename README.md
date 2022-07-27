@@ -59,18 +59,18 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [br
    npm start
    ```
 
-## 🚀 Building and Running for Production
+## 🚀 Test then deploy
 
-1. Generate a full static production build
+1. Test locally using localhost:8000
 
    ```sh
-   npm run build
+   npm run develop
    ```
 
-1. Preview the site as it will appear once deployed
+1. Deploy via github pages
 
    ```sh
-   npm run serve
+   npm run deploy
    ```
 
 ## 🎨 Color Reference
