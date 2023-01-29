@@ -35,6 +35,10 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [br
 
 ## 🛠 Installation & Set Up
 
+0. Clone repository and install packages: 
+```sh
+npm install 
+```
 1. Install the Gatsby CLI
 
    ```sh
