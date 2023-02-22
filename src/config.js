@@ -11,10 +11,10 @@ module.exports = {
     //   name: 'Instagram',
     //   url: 'https://www.instagram.com/bchiang7',
     // },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
-    },
+    // {
+    //   name: 'Twitter',
+    //   url: 'https://twitter.com/bchiang7',
+    // },
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/michaeltong1',
@@ -34,10 +34,10 @@ module.exports = {
       name: 'Experience',
       url: '/#jobs',
     },
-    {
-      name: 'Work',
-      url: '/#projects',
-    },
+    // {
+    //   name: 'Work',
+    //   url: '/#projects',
+    // },
     {
       name: 'Contact',
       url: '/#contact',

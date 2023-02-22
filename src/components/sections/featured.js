@@ -346,12 +346,12 @@ const Featured = () => {
   }, []);
 
   return (
-    <section id="projects">
-      <h2 className="numbered-heading" ref={revealTitle}>
+    <section style={{padding: "0px 0px"}} id="projects">
+      {/* <h2 className="numbered-heading" ref={revealTitle}>
         Some Things I’ve Built
-      </h2>
+      </h2> */}
 
-      <StyledProjectsGrid>
+      {/* <StyledProjectsGrid>
         {featuredProjects &&
           featuredProjects.map(({ node }, i) => {
             const { frontmatter, html } = node;
@@ -409,7 +409,7 @@ const Featured = () => {
               </StyledProject>
             );
           })}
-      </StyledProjectsGrid>
+      </StyledProjectsGrid> */}
     </section>
   );
 };
